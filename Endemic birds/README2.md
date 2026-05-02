@@ -11,6 +11,7 @@ In conclusion, Sri Lanka’s endemic birds are a vital part of the island’s na
 ![picture](https://github.com/SamidiH/MyFirstGitRepo/blob/main/Endemic%20birds/images/sri-lanka-jungle-fowl01.jpg?raw=true)
 
 # Sri Lanka Blue Magpie
+![picture](https://github.com/SamidiH/MyFirstGitRepo/blob/main/Endemic%20birds/images/22705787.jpg?raw=true)
 # Sri Lanka Whistling Thrush
 # Sri Lanka Grey Hornbill
 # Sri Lanka Green Pigeon
