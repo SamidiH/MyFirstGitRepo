@@ -8,6 +8,7 @@ However, many endemic birds face threats due to habitat loss, deforestation, and
 In conclusion, Sri Lanka’s endemic birds are a vital part of the island’s natural heritage. Protecting them ensures the survival of unique ecosystems and preserves the country’s biodiversity for future generations.
 
 # Sri Lanka Junglefowl
+![picture](https://github.com/SamidiH/MyFirstGitRepo/blob/main/Endemic%20birds/images/sri-lanka-jungle-fowl01.jpg?raw=true)
 
 # Sri Lanka Blue Magpie
 # Sri Lanka Whistling Thrush
